@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100027186646125",
+            "count": 6
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        }
+    ],
+    "day": [
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        }
+    ],
+    "time": 4
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Falling To You",
+    "ID": "100087906381281",
+    "shield": 2,
+    "coins": 4950,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 10,
+            "chest": 0
+        }
+    },
+    "spin": 9,
+    "timeRegister": "16:17:08, 4/12/2022"
+}

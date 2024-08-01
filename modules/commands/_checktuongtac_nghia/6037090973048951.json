@@ -1,0 +1,471 @@
+{
+    "total": [
+        {
+            "id": "100054775553429",
+            "count": 0
+        },
+        {
+            "id": "100057059772104",
+            "count": 0
+        },
+        {
+            "id": "100058439864836",
+            "count": 44
+        },
+        {
+            "id": "100058596039095",
+            "count": 10
+        },
+        {
+            "id": "100070878821019",
+            "count": 8
+        },
+        {
+            "id": "100073249478785",
+            "count": 0
+        },
+        {
+            "id": "100074418350559",
+            "count": 0
+        },
+        {
+            "id": "100075339774384",
+            "count": 156
+        },
+        {
+            "id": "100076188075925",
+            "count": 2
+        },
+        {
+            "id": "100077917654042",
+            "count": 0
+        },
+        {
+            "id": "100078118360584",
+            "count": 5
+        },
+        {
+            "id": "100081993241167",
+            "count": 3
+        },
+        {
+            "id": "100082230437192",
+            "count": 5
+        },
+        {
+            "id": "100082353630448",
+            "count": 0
+        },
+        {
+            "id": "100082515042940",
+            "count": 0
+        },
+        {
+            "id": "100083718526796",
+            "count": 2
+        },
+        {
+            "id": "100086221703021",
+            "count": 0
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100088680531622",
+            "count": 0
+        },
+        {
+            "id": "100089002067791",
+            "count": 4
+        },
+        {
+            "id": "100089331134130",
+            "count": 0
+        },
+        {
+            "id": "100089491158553",
+            "count": 0
+        },
+        {
+            "id": "100089546138228",
+            "count": 0
+        },
+        {
+            "id": "100089684797754",
+            "count": 0
+        },
+        {
+            "id": "100089697501188",
+            "count": 0
+        },
+        {
+            "id": "100089869226960",
+            "count": 4
+        },
+        {
+            "id": "100089918387131",
+            "count": 0
+        },
+        {
+            "id": "100089951299250",
+            "count": 0
+        },
+        {
+            "id": "100090493955790",
+            "count": 0
+        },
+        {
+            "id": "100090574152195",
+            "count": 0
+        },
+        {
+            "id": "100090850106102",
+            "count": 46
+        },
+        {
+            "id": "100090887658487",
+            "count": 0
+        },
+        {
+            "id": "100091129446541",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100054775553429",
+            "count": 0,
+            "name": "Luna あ"
+        },
+        {
+            "id": "100057059772104",
+            "count": 0,
+            "name": "Kiefer Morozov"
+        },
+        {
+            "id": "100058439864836",
+            "count": 0,
+            "name": "Aika Tera Chan"
+        },
+        {
+            "id": "100058596039095",
+            "count": 0,
+            "name": "Uno Devius"
+        },
+        {
+            "id": "100070878821019",
+            "count": 0,
+            "name": "Kade Trajev"
+        },
+        {
+            "id": "100073249478785",
+            "count": 0,
+            "name": "Traya Laure"
+        },
+        {
+            "id": "100074418350559",
+            "count": 0,
+            "name": "Audrey Maraux"
+        },
+        {
+            "id": "100075339774384",
+            "count": 0,
+            "name": "Devora Aeris"
+        },
+        {
+            "id": "100076188075925",
+            "count": 0,
+            "name": "Naveen Genesis"
+        },
+        {
+            "id": "100077917654042",
+            "count": 0,
+            "name": "Jahyra Guvien"
+        },
+        {
+            "id": "100078118360584",
+            "count": 0,
+            "name": "Kysler Wedson"
+        },
+        {
+            "id": "100081993241167",
+            "count": 0,
+            "name": "Joshua Fāino"
+        },
+        {
+            "id": "100082230437192",
+            "count": 0,
+            "name": "Shawn Faino"
+        },
+        {
+            "id": "100082353630448",
+            "count": 0,
+            "name": "Louis Kim J'vrsk"
+        },
+        {
+            "id": "100082515042940",
+            "count": 0,
+            "name": "Haxe Aquiah Vercæscà"
+        },
+        {
+            "id": "100083718526796",
+            "count": 0,
+            "name": "Naomi Schnr"
+        },
+        {
+            "id": "100086221703021",
+            "count": 0,
+            "name": "Anderson Tydus"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088680531622",
+            "count": 0,
+            "name": "Ntr Ems Boosting"
+        },
+        {
+            "id": "100089002067791",
+            "count": 0,
+            "name": "Yzkaella Shy Zalestia"
+        },
+        {
+            "id": "100089331134130",
+            "count": 0,
+            "name": "Primo Ace Ocheo"
+        },
+        {
+            "id": "100089491158553",
+            "count": 0,
+            "name": "Sachi Montefalco"
+        },
+        {
+            "id": "100089546138228",
+            "count": 0,
+            "name": "Yze Yxcucumber"
+        },
+        {
+            "id": "100089684797754",
+            "count": 0,
+            "name": "Sierra Huh"
+        },
+        {
+            "id": "100089697501188",
+            "count": 0,
+            "name": "Anya Vior"
+        },
+        {
+            "id": "100089869226960",
+            "count": 0,
+            "name": "Gabriel Kenneth Kendry"
+        },
+        {
+            "id": "100089918387131",
+            "count": 0,
+            "name": "Russ Astrio"
+        },
+        {
+            "id": "100089951299250",
+            "count": 0,
+            "name": "Kaiyex Kierulf"
+        },
+        {
+            "id": "100090493955790",
+            "count": 0,
+            "name": "Akirah Nicole"
+        },
+        {
+            "id": "100090574152195",
+            "count": 0,
+            "name": "Noir Black"
+        },
+        {
+            "id": "100090850106102",
+            "count": 0,
+            "name": "Tafi Swænj"
+        },
+        {
+            "id": "100090887658487",
+            "count": 0,
+            "name": "Tanya S'jrv"
+        },
+        {
+            "id": "100091129446541",
+            "count": 0,
+            "name": "Ken Chua"
+        }
+    ],
+    "day": [
+        {
+            "id": "100054775553429",
+            "count": 0,
+            "name": "Luna あ"
+        },
+        {
+            "id": "100057059772104",
+            "count": 0,
+            "name": "Kiefer Morozov"
+        },
+        {
+            "id": "100058439864836",
+            "count": 0,
+            "name": "Aika Tera Chan"
+        },
+        {
+            "id": "100058596039095",
+            "count": 0,
+            "name": "Uno Devius"
+        },
+        {
+            "id": "100070878821019",
+            "count": 0,
+            "name": "Kade Trajev"
+        },
+        {
+            "id": "100073249478785",
+            "count": 0,
+            "name": "Traya Laure"
+        },
+        {
+            "id": "100074418350559",
+            "count": 0,
+            "name": "Audrey Maraux"
+        },
+        {
+            "id": "100075339774384",
+            "count": 0,
+            "name": "Devora Aeris"
+        },
+        {
+            "id": "100076188075925",
+            "count": 0,
+            "name": "Naveen Genesis"
+        },
+        {
+            "id": "100077917654042",
+            "count": 0,
+            "name": "Jahyra Guvien"
+        },
+        {
+            "id": "100078118360584",
+            "count": 0,
+            "name": "Kysler Wedson"
+        },
+        {
+            "id": "100081993241167",
+            "count": 0,
+            "name": "Joshua Fāino"
+        },
+        {
+            "id": "100082230437192",
+            "count": 0,
+            "name": "Shawn Faino"
+        },
+        {
+            "id": "100082353630448",
+            "count": 0,
+            "name": "Louis Kim J'vrsk"
+        },
+        {
+            "id": "100082515042940",
+            "count": 0,
+            "name": "Haxe Aquiah Vercæscà"
+        },
+        {
+            "id": "100083718526796",
+            "count": 0,
+            "name": "Naomi Schnr"
+        },
+        {
+            "id": "100086221703021",
+            "count": 0,
+            "name": "Anderson Tydus"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088680531622",
+            "count": 0,
+            "name": "Ntr Ems Boosting"
+        },
+        {
+            "id": "100089002067791",
+            "count": 0,
+            "name": "Yzkaella Shy Zalestia"
+        },
+        {
+            "id": "100089331134130",
+            "count": 0,
+            "name": "Primo Ace Ocheo"
+        },
+        {
+            "id": "100089491158553",
+            "count": 0,
+            "name": "Sachi Montefalco"
+        },
+        {
+            "id": "100089546138228",
+            "count": 0,
+            "name": "Yze Yxcucumber"
+        },
+        {
+            "id": "100089684797754",
+            "count": 0,
+            "name": "Sierra Huh"
+        },
+        {
+            "id": "100089697501188",
+            "count": 0,
+            "name": "Anya Vior"
+        },
+        {
+            "id": "100089869226960",
+            "count": 0,
+            "name": "Gabriel Kenneth Kendry"
+        },
+        {
+            "id": "100089918387131",
+            "count": 0,
+            "name": "Russ Astrio"
+        },
+        {
+            "id": "100089951299250",
+            "count": 0,
+            "name": "Kaiyex Kierulf"
+        },
+        {
+            "id": "100090493955790",
+            "count": 0,
+            "name": "Akirah Nicole"
+        },
+        {
+            "id": "100090574152195",
+            "count": 0,
+            "name": "Noir Black"
+        },
+        {
+            "id": "100090850106102",
+            "count": 0,
+            "name": "Tafi Swænj"
+        },
+        {
+            "id": "100090887658487",
+            "count": 0,
+            "name": "Tanya S'jrv"
+        },
+        {
+            "id": "100091129446541",
+            "count": 0,
+            "name": "Ken Chua"
+        }
+    ],
+    "time": 4
+}

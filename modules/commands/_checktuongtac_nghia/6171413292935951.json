@@ -1,0 +1,247 @@
+{
+    "total": [
+        {
+            "id": "100079910089432",
+            "count": 17
+        },
+        {
+            "id": "100081054760790",
+            "count": 58
+        },
+        {
+            "id": "100084054910989",
+            "count": 16
+        },
+        {
+            "id": "100085266514846",
+            "count": 54
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100088669759298",
+            "count": 14
+        },
+        {
+            "id": "100089346441185",
+            "count": 252
+        },
+        {
+            "id": "100089938218078",
+            "count": 102
+        },
+        {
+            "id": "100090440694011",
+            "count": 58
+        },
+        {
+            "id": "100091965069992",
+            "count": 0
+        },
+        {
+            "id": "100088750992976",
+            "count": 8
+        },
+        {
+            "id": "100082372706004",
+            "count": 45
+        },
+        {
+            "id": "100065743970503",
+            "count": 61
+        },
+        {
+            "id": "100086789321425",
+            "count": 3
+        },
+        {
+            "id": "100090802609773",
+            "count": 8
+        },
+        {
+            "id": "100078971375621",
+            "count": 28
+        },
+        {
+            "id": "100090535063285",
+            "count": 11
+        }
+    ],
+    "week": [
+        {
+            "id": "100079910089432",
+            "count": 6,
+            "name": "Zack G'vrsky"
+        },
+        {
+            "id": "100081054760790",
+            "count": 0,
+            "name": "Jefferson Garcia"
+        },
+        {
+            "id": "100084054910989",
+            "count": 8,
+            "name": "Kiyoshi Fuego"
+        },
+        {
+            "id": "100085266514846",
+            "count": 0,
+            "name": "Jade Vincent Torres"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "Zyx Morgan"
+        },
+        {
+            "id": "100088669759298",
+            "count": 1,
+            "name": "Kleivn Mailer"
+        },
+        {
+            "id": "100089346441185",
+            "count": 10,
+            "name": "Axeria Clex"
+        },
+        {
+            "id": "100089938218078",
+            "count": 0,
+            "name": "Freya Ochea"
+        },
+        {
+            "id": "100090440694011",
+            "count": 1,
+            "name": "Aizeah Hazé"
+        },
+        {
+            "id": "100091965069992",
+            "count": 0,
+            "name": "Aizeah Jvorsk"
+        },
+        {
+            "id": "100088750992976",
+            "count": 0,
+            "name": "Yca Sky Faith"
+        },
+        {
+            "id": "100082372706004",
+            "count": 2,
+            "name": "Kurt Villanueva"
+        },
+        {
+            "id": "100065743970503",
+            "count": 0,
+            "name": "Khian Celoso"
+        },
+        {
+            "id": "100086789321425",
+            "count": 0,
+            "name": "Jiro Vior"
+        },
+        {
+            "id": "100090802609773",
+            "count": 4,
+            "name": "Liam Scott"
+        },
+        {
+            "id": "100078971375621",
+            "count": 8,
+            "name": "Joram Al'ne"
+        },
+        {
+            "id": "100090535063285",
+            "count": 2,
+            "name": "Iska Ochea"
+        }
+    ],
+    "day": [
+        {
+            "id": "100079910089432",
+            "count": 4,
+            "name": "Zack G'vrsky"
+        },
+        {
+            "id": "100081054760790",
+            "count": 0,
+            "name": "Jefferson Garcia"
+        },
+        {
+            "id": "100084054910989",
+            "count": 2,
+            "name": "Kiyoshi Fuego"
+        },
+        {
+            "id": "100085266514846",
+            "count": 0,
+            "name": "Jade Vincent Torres"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "Zyx Morgan"
+        },
+        {
+            "id": "100088669759298",
+            "count": 0,
+            "name": "Kleivn Mailer"
+        },
+        {
+            "id": "100089346441185",
+            "count": 8,
+            "name": "Axeria Clex"
+        },
+        {
+            "id": "100089938218078",
+            "count": 0,
+            "name": "Freya Ochea"
+        },
+        {
+            "id": "100090440694011",
+            "count": 0,
+            "name": "Aizeah Hazé"
+        },
+        {
+            "id": "100091965069992",
+            "count": 0,
+            "name": "Aizeah Jvorsk"
+        },
+        {
+            "id": "100088750992976",
+            "count": 0,
+            "name": "Yca Sky Faith"
+        },
+        {
+            "id": "100082372706004",
+            "count": 0,
+            "name": "Kurt Villanueva"
+        },
+        {
+            "id": "100065743970503",
+            "count": 0,
+            "name": "Khian Celoso"
+        },
+        {
+            "id": "100086789321425",
+            "count": 0,
+            "name": "Jiro Vior"
+        },
+        {
+            "id": "100090802609773",
+            "count": 0,
+            "name": "Liam Scott"
+        },
+        {
+            "id": "100078971375621",
+            "count": 4,
+            "name": "Joram Al'ne"
+        },
+        {
+            "id": "100090535063285",
+            "count": 2,
+            "name": "Iska Ochea"
+        }
+    ],
+    "time": 4
+}

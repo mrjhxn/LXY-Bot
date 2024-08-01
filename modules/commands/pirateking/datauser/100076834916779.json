@@ -1,0 +1,19 @@
+{
+    "name": "Yanna Xyreen Hyvra",
+    "ID": "100076834916779",
+    "shield": 3,
+    "coins": 65515,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 22,
+    "timeRegister": "20:57:22, 8/6/2023"
+}

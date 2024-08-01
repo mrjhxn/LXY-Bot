@@ -1,0 +1,19 @@
+{
+    "name": "Ace Supremo Drexano",
+    "ID": "100077678905034",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 14,
+    "timeRegister": "16:01:49, 19/2/2023"
+}

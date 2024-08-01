@@ -1,0 +1,233 @@
+{
+    "total": [
+        {
+            "id": "100028089932321",
+            "count": 1
+        },
+        {
+            "id": "100034046675135",
+            "count": 0
+        },
+        {
+            "id": "100040336697065",
+            "count": 0
+        },
+        {
+            "id": "100040807086137",
+            "count": 0
+        },
+        {
+            "id": "100043767841429",
+            "count": 0
+        },
+        {
+            "id": "100054421205689",
+            "count": 0
+        },
+        {
+            "id": "100055593493940",
+            "count": 0
+        },
+        {
+            "id": "100055856212128",
+            "count": 2
+        },
+        {
+            "id": "100062726881644",
+            "count": 0
+        },
+        {
+            "id": "100070368282380",
+            "count": 0
+        },
+        {
+            "id": "100074144931430",
+            "count": 0
+        },
+        {
+            "id": "100074862181079",
+            "count": 13
+        },
+        {
+            "id": "100082201197855",
+            "count": 0
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100088492116532",
+            "count": 0
+        },
+        {
+            "id": "100090116025011",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100028089932321",
+            "count": 0,
+            "name": "Harley B Roque"
+        },
+        {
+            "id": "100034046675135",
+            "count": 0,
+            "name": "Lorena Banquerigo"
+        },
+        {
+            "id": "100040336697065",
+            "count": 0,
+            "name": "Jay Nawalang Kwentasamundo"
+        },
+        {
+            "id": "100040807086137",
+            "count": 0,
+            "name": "Pauline Austria"
+        },
+        {
+            "id": "100043767841429",
+            "count": 0,
+            "name": "Aqi Jacob Santosʚĭɞ"
+        },
+        {
+            "id": "100054421205689",
+            "count": 0,
+            "name": "Frei Andrei Laigo"
+        },
+        {
+            "id": "100055593493940",
+            "count": 0,
+            "name": "Abbydel Dalida"
+        },
+        {
+            "id": "100055856212128",
+            "count": 0,
+            "name": "Kurosho Krynx"
+        },
+        {
+            "id": "100062726881644",
+            "count": 0,
+            "name": "Kheilly Owie Restoso"
+        },
+        {
+            "id": "100070368282380",
+            "count": 0,
+            "name": "Jhay Palagingsawi"
+        },
+        {
+            "id": "100074144931430",
+            "count": 0,
+            "name": "Cazuki Gaso"
+        },
+        {
+            "id": "100074862181079",
+            "count": 0,
+            "name": "Alyanna Rousseao"
+        },
+        {
+            "id": "100082201197855",
+            "count": 0,
+            "name": "Reniel Cazuki Gaso"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088492116532",
+            "count": 0,
+            "name": "Rose Marie Rocela Rosess"
+        },
+        {
+            "id": "100090116025011",
+            "count": 0,
+            "name": "Kenneth Laguran"
+        }
+    ],
+    "day": [
+        {
+            "id": "100028089932321",
+            "count": 0,
+            "name": "Harley B Roque"
+        },
+        {
+            "id": "100034046675135",
+            "count": 0,
+            "name": "Lorena Banquerigo"
+        },
+        {
+            "id": "100040336697065",
+            "count": 0,
+            "name": "Jay Nawalang Kwentasamundo"
+        },
+        {
+            "id": "100040807086137",
+            "count": 0,
+            "name": "Pauline Austria"
+        },
+        {
+            "id": "100043767841429",
+            "count": 0,
+            "name": "Aqi Jacob Santosʚĭɞ"
+        },
+        {
+            "id": "100054421205689",
+            "count": 0,
+            "name": "Frei Andrei Laigo"
+        },
+        {
+            "id": "100055593493940",
+            "count": 0,
+            "name": "Abbydel Dalida"
+        },
+        {
+            "id": "100055856212128",
+            "count": 0,
+            "name": "Kurosho Krynx"
+        },
+        {
+            "id": "100062726881644",
+            "count": 0,
+            "name": "Kheilly Owie Restoso"
+        },
+        {
+            "id": "100070368282380",
+            "count": 0,
+            "name": "Jhay Palagingsawi"
+        },
+        {
+            "id": "100074144931430",
+            "count": 0,
+            "name": "Cazuki Gaso"
+        },
+        {
+            "id": "100074862181079",
+            "count": 0,
+            "name": "Alyanna Rousseao"
+        },
+        {
+            "id": "100082201197855",
+            "count": 0,
+            "name": "Reniel Cazuki Gaso"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088492116532",
+            "count": 0,
+            "name": "Rose Marie Rocela Rosess"
+        },
+        {
+            "id": "100090116025011",
+            "count": 0,
+            "name": "Kenneth Laguran"
+        }
+    ],
+    "time": 4
+}

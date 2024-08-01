@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My App</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      body {
+        background-color: #f5f5f5;
+      }
+
+      h1 {
+        text-align: center;
+        margin-top: 50px;
+        font-size: 40px;
+        color: #333333;
+      }
+
+      form {
+        max-width: 700px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden; /* This will hide the overflow of the form elements inside */
+      }
+
+      label {
+        display: block;
+        margin-bottom: 10px;
+        font-weight: bold;
+      }
+
+      textarea {
+        width: 100%;
+        height: 200px;
+        padding: 10px;
+        border: none;
+        background-color: #f5f5f5;
+        resize: none;
+      }
+
+      input[type="submit"] {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        background-color: #007aff;
+        color: #ffffff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #005da5;
+      }
+
+      button {
+        display: block;
+        margin: 50px auto 0;
+        padding: 10px 20px;
+        background-color: #ffffff;
+        color: #333333;
+        border: 2px solid #333333;
+        cursor: pointer;
+        animation: rotate 2s linear infinite;
+      }
+
+      .pulse {
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .card {
+        margin: 20px;
+        width: 300px;
+        height: 400px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        transition: box-shadow 0.3s ease;
+      }
+
+      .card:hover {
+        box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+      }
+
+      .card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+
+      .card h2 {
+        padding: 20px;
+        font-size: 24px;
+        color: #333333;
+        text-align: center;
+        margin: 0;
+      }
+
+      .card p {
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #999999;
+        text-align: justify;
+        margin: 0;
+      }
+
+      .alert {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 12px 24px;
+  background-color: #f44336;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+      /* Styling for the console log box */
+      .console-box {
+  background-color: #1a1a1a;
+  color: #fff;
+  padding: 5px;
+  white-space: pre-wrap;
+  overflow: auto;
+  height: auto;
+  max-height: 500px;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
+.console-box::-webkit-scrollbar {
+  width: 7px;
+}
+
+.console-box::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
+
+.console-box::-webkit-scrollbar-track {
+  background-color: #444;
+  border-radius: 10px;
+}
+      .console-box button {
+        margin-top: 0px;
+      }
+      h6 {
+        margin-top: -40px;
+        margin-bottom: -55px;
+        /*text-emphasis: '🔥';*/
+      }
+
+      #ping {
+        text-align: center;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <h1>My App</h1>
+
+    <form method="POST" action="/save">
+      <h2>App State</h2>
+      <label for="appState">Enter app state:</label>
+      <textarea name="appState" id="appState"></textarea>
+      <br>
+      <input type="submit" value="Save State">
+    </form>
+
+    <hr>
+
+    <form method="POST" action="/save-config">
+      <h2>App Config</h2>
+      <label for="config">Enter app config:</label>
+      <textarea name="config" id="config"></textarea>
+      <br>
+      <input type="submit" value="Save Config">
+    </form>
+
+    <button onclick="restartServer()" class="pulse">Restart Server</button>
+
+    <div class="container">
+      <div class="card">
+        <img src="https://i.postimg.cc/3rC4bM5W/chards-bot-low-resolution-logo-white-on-black-background.png" alt="Image 1">
+        <h2>Lxy Bot</h2>
+        <p>An unofficial Facebook chatbot that provides assistance and amusement to users through a set of predefined commands.</p>
+      </div>
+
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200.png?text=Image+2" alt="Image 2">
+        <h2>Card 2</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet, libero in pulvinar euismod, elit mi bibendum felis, eget lobortis velit massa vel libero. </p>
+      </div>
+
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200.png?text=Image+3" alt="Image 3">
+        <h2>Card 3</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet, libero in pulvinar euismod, elit mi bibendum felis, eget lobortis velit massa vel libero. </p>
+      </div>
+
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200.png?text=Image+4" alt="Image 4">
+        <h2>Card 4</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet, libero in pulvinar euismod, elit mi bibendum felis, eget lobortis velit massa vel libero. </p>
+      </div>
+    </div>
+    
+    <h1>Console logs</h1>
+    <div class="console-box">
+      <h6 id="console-log"></h6>
+      <!--<button onclick="refreshLogs()">Refresh</button>-->
+    </div>
+    <div id="ping"></div>
+
+    <script>
+      fetch('/config')
+        .then(response => response.json())
+        .then(config => {
+          const configTextarea = document.querySelector('form[action="/save-config"] textarea');
+          configTextarea.value = JSON.stringify(config, null, 2);
+        })
+        .catch(error => console.error(error));
+
+      function restartServer() {
+        fetch('/restart', { method: 'POST' })
+          .then(response => response.text())
+          .then(message => alert("YOUR SYSTEM HAS BEEN RESTARTED!"))
+          .catch(error => console.error(error));
+      }
+      function showAlert(message) {
+        const alertBox = document.createElement('div');
+        alertBox.className = 'alert';
+        const alertText = document.createTextNode(message);
+        alertBox.appendChild(alertText);
+        document.body.appendChild(alertBox);
+        setTimeout(() => { 
+          alertBox.remove(); 
+        }, 3000);
+      }
+      // Function to refresh the console logs from file.txt
+      function refreshLogs() {
+        fetch('/logs')
+          .then(response => response.text())
+          .then(logs => {
+            const consoleLog = document.querySelector('#console-log');
+            logs = logs.replace(/\x1B\[[0-9;]*[A-Za-z]/g, ''); // remove escape codes
+        logs = logs.replace(/<\/?pre>/g, ''); // remove <pre> and </pre> tags
+        consoleLog.innerHTML = logs;
+            consoleLog.scrollTop = consoleLog.scrollHeight;
+          })
+          .catch(error => console.error(error));
+      }
+      
+      // Refresh the logs on page load
+      setInterval(refreshLogs, 1000);
+
+// Call refreshLogs() on page load
+refreshLogs();
+
+      // Function to restart server and show a success message
+      function restartServer() {
+        fetch('/restart', { method: 'POST' })
+          .then(response => response.text())
+          .then(message => showAlert(message))
+          .catch(error => console.error(error));
+      }
+
+      function updatePing() {
+        const start = performance.now(); // Start the timer
+        const pingText = document.querySelector('#ping');
+
+        fetch('/')
+          .then(() => {
+            // Calculate the current ping time
+            const end = performance.now();
+            const time = end - start;
+            // Update the ping text content
+            pingText.textContent = `Ping: ${time.toFixed(2)} ms`;
+          })
+          .catch(error => console.error(error));
+      }
+
+      // Automatically update the ping time every 5 seconds
+      setInterval(updatePing, 1000);
+
+      // Call the updatePing() function once to display the initial ping time
+      updatePing();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+{
+    "name": "Yvo Gray",
+    "ID": "100078927990084",
+    "shield": 3,
+    "coins": 29930,
+    "Island": {
+        "level": 2,
+        "coinsLV": 300,
+        "data": {
+            "tower": 40,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 24,
+    "timeRegister": "13:18:12, 3/12/2022"
+}

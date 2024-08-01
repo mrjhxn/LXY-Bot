@@ -1,0 +1,19 @@
+{
+    "name": "Real Hertz",
+    "ID": "100087835027086",
+    "shield": 0,
+    "coins": 4950,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 10,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 10,
+    "timeRegister": "16:10:43, 4/12/2022"
+}

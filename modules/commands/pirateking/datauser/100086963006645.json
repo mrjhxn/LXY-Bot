@@ -1,0 +1,19 @@
+{
+    "name": "Sofia Montefalco",
+    "ID": "100086963006645",
+    "shield": 1,
+    "coins": 500,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 0,
+    "timeRegister": "23:33:03, 2/12/2022"
+}

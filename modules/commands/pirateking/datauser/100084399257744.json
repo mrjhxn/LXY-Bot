@@ -1,0 +1,19 @@
+{
+    "name": "Ivis Ciesthea",
+    "ID": "100084399257744",
+    "shield": 0,
+    "coins": 94582,
+    "Island": {
+        "level": 4,
+        "coinsLV": 500,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 997,
+    "timeRegister": "13:34:07, 4/12/2022"
+}

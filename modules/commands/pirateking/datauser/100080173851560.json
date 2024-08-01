@@ -1,0 +1,19 @@
+{
+    "name": "Jir'o Oxford",
+    "ID": "100080173851560",
+    "shield": 2,
+    "coins": 1937.5,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "18:32:26, 5/12/2022"
+}

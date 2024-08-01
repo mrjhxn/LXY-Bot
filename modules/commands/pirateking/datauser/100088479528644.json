@@ -1,0 +1,19 @@
+{
+    "name": "Shun Zapanta",
+    "ID": "100088479528644",
+    "shield": 3,
+    "coins": 11500,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 12,
+    "timeRegister": "19:43:13, 18/12/2022"
+}

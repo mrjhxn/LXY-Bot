@@ -1,0 +1,19 @@
+{
+    "name": "Liam Lee",
+    "ID": "100087961953135",
+    "shield": 1,
+    "coins": 349.609375,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 14,
+    "timeRegister": "19:06:22, 3/12/2022"
+}

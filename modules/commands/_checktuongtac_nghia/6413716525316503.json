@@ -1,0 +1,93 @@
+{
+    "total": [
+        {
+            "id": "100080363359650",
+            "count": 1
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100091929247249",
+            "count": 0
+        },
+        {
+            "id": "100086189036700",
+            "count": 1
+        },
+        {
+            "id": "100091068673705",
+            "count": 3
+        },
+        {
+            "id": "100088431302615",
+            "count": 6
+        }
+    ],
+    "week": [
+        {
+            "id": "100080363359650",
+            "count": 0,
+            "name": "Kiesha Schnr"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100091929247249",
+            "count": 0,
+            "name": "Kiel Nuero"
+        },
+        {
+            "id": "100086189036700",
+            "count": 0,
+            "name": "Prince Kyle C. Queron"
+        },
+        {
+            "id": "100091068673705",
+            "count": 0,
+            "name": "Saiko Swiftie"
+        },
+        {
+            "id": "100088431302615",
+            "count": 1,
+            "name": "Sean Syverjio"
+        }
+    ],
+    "day": [
+        {
+            "id": "100080363359650",
+            "count": 0,
+            "name": "Kiesha Schnr"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100091929247249",
+            "count": 0,
+            "name": "Kiel Nuero"
+        },
+        {
+            "id": "100086189036700",
+            "count": 0,
+            "name": "Prince Kyle C. Queron"
+        },
+        {
+            "id": "100091068673705",
+            "count": 0,
+            "name": "Saiko Swiftie"
+        },
+        {
+            "id": "100088431302615",
+            "count": 0,
+            "name": "Sean Syverjio"
+        }
+    ],
+    "time": 4
+}

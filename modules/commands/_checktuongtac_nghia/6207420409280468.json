@@ -1,0 +1,190 @@
+{
+    "total": [
+        {
+            "id": "100006940924375",
+            "count": 10
+        },
+        {
+            "id": "100007386788818",
+            "count": 47
+        },
+        {
+            "id": "100008681673233",
+            "count": 8
+        },
+        {
+            "id": "100008704530867",
+            "count": 127
+        },
+        {
+            "id": "100017482083369",
+            "count": 4
+        },
+        {
+            "id": "100020780058062",
+            "count": 340
+        },
+        {
+            "id": "100023206758573",
+            "count": 48
+        },
+        {
+            "id": "100027186646125",
+            "count": 33
+        },
+        {
+            "id": "100028960239710",
+            "count": 3
+        },
+        {
+            "id": "100043683171281",
+            "count": 6
+        },
+        {
+            "id": "100067900806163",
+            "count": 78
+        },
+        {
+            "id": "100089977257189",
+            "count": 1
+        },
+        {
+            "id": "100008789235930",
+            "count": 5
+        }
+    ],
+    "week": [
+        {
+            "id": "100006940924375",
+            "count": 1,
+            "name": "Dindin Maglaqui"
+        },
+        {
+            "id": "100007386788818",
+            "count": 33,
+            "name": "Rie Lendle Delos Santos"
+        },
+        {
+            "id": "100008681673233",
+            "count": 2,
+            "name": "Jennylyn Ybañez"
+        },
+        {
+            "id": "100008704530867",
+            "count": 16,
+            "name": "Earljude Ramasta"
+        },
+        {
+            "id": "100017482083369",
+            "count": 2,
+            "name": "Dhalal S. Rodaje"
+        },
+        {
+            "id": "100020780058062",
+            "count": 75,
+            "name": "Earl John Luayon"
+        },
+        {
+            "id": "100023206758573",
+            "count": 7,
+            "name": "Kate Del Rosario"
+        },
+        {
+            "id": "100027186646125",
+            "count": 1,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100028960239710",
+            "count": 1,
+            "name": "Francisco Navidad Resa"
+        },
+        {
+            "id": "100043683171281",
+            "count": 4,
+            "name": "Jelyn Pacheco"
+        },
+        {
+            "id": "100067900806163",
+            "count": 1,
+            "name": "Daryl Galang"
+        },
+        {
+            "id": "100089977257189",
+            "count": 0,
+            "name": "Bsit Sec Sem"
+        },
+        {
+            "id": "100008789235930",
+            "count": 5
+        }
+    ],
+    "day": [
+        {
+            "id": "100006940924375",
+            "count": 0,
+            "name": "Dindin Maglaqui"
+        },
+        {
+            "id": "100007386788818",
+            "count": 0,
+            "name": "Rie Lendle Delos Santos"
+        },
+        {
+            "id": "100008681673233",
+            "count": 0,
+            "name": "Jennylyn Ybañez"
+        },
+        {
+            "id": "100008704530867",
+            "count": 0,
+            "name": "Earljude Ramasta"
+        },
+        {
+            "id": "100017482083369",
+            "count": 0,
+            "name": "Dhalal S. Rodaje"
+        },
+        {
+            "id": "100020780058062",
+            "count": 0,
+            "name": "Earl John Luayon"
+        },
+        {
+            "id": "100023206758573",
+            "count": 0,
+            "name": "Kate Del Rosario"
+        },
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100028960239710",
+            "count": 0,
+            "name": "Francisco Navidad Resa"
+        },
+        {
+            "id": "100043683171281",
+            "count": 0,
+            "name": "Jelyn Pacheco"
+        },
+        {
+            "id": "100067900806163",
+            "count": 0,
+            "name": "Daryl Galang"
+        },
+        {
+            "id": "100089977257189",
+            "count": 0,
+            "name": "Bsit Sec Sem"
+        },
+        {
+            "id": "100008789235930",
+            "count": 0,
+            "name": "Phoebekate Dela Cruz"
+        }
+    ],
+    "time": 4
+}

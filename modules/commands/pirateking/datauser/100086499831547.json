@@ -1,0 +1,19 @@
+{
+    "name": "Rhicyver Zecco",
+    "ID": "100086499831547",
+    "shield": 1,
+    "coins": 881.25,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "boat": 0,
+            "pet": 10,
+            "chest": 10
+        }
+    },
+    "spin": 12,
+    "timeRegister": "15:15:21, 3/12/2022"
+}

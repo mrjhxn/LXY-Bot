@@ -1,0 +1,920 @@
+{
+    "total": [
+        {
+            "id": "100035805512261",
+            "count": 559
+        },
+        {
+            "id": "100047818170891",
+            "count": 0
+        },
+        {
+            "id": "100061996433763",
+            "count": 1233
+        },
+        {
+            "id": "100070638858526",
+            "count": 315
+        },
+        {
+            "id": "100076974067151",
+            "count": 288
+        },
+        {
+            "id": "100080884265374",
+            "count": 21
+        },
+        {
+            "id": "100085514832448",
+            "count": 788
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100089649034056",
+            "count": 671
+        },
+        {
+            "id": "100089746924207",
+            "count": 145
+        },
+        {
+            "id": "100089770608651",
+            "count": 165
+        },
+        {
+            "id": "100087924859640",
+            "count": 538
+        },
+        {
+            "id": "100086007806846",
+            "count": 45
+        },
+        {
+            "id": "100089416965096",
+            "count": 14
+        },
+        {
+            "id": "100089938218078",
+            "count": 649
+        },
+        {
+            "id": "100089903927653",
+            "count": 51
+        },
+        {
+            "id": "100083721057462",
+            "count": 30
+        },
+        {
+            "id": "100087177985156",
+            "count": 749
+        },
+        {
+            "id": "100086278020994",
+            "count": 7
+        },
+        {
+            "id": "100086388802459",
+            "count": 72
+        },
+        {
+            "id": "100087751781756",
+            "count": 150
+        },
+        {
+            "id": "100087132138117",
+            "count": 54
+        },
+        {
+            "id": "100089557996979",
+            "count": 62
+        },
+        {
+            "id": "100087582647062",
+            "count": 144
+        },
+        {
+            "id": "100089794643693",
+            "count": 12
+        },
+        {
+            "id": "100081966482651",
+            "count": 12
+        },
+        {
+            "id": "100075429336874",
+            "count": 219
+        },
+        {
+            "id": "100077274765184",
+            "count": 359
+        },
+        {
+            "id": "100084263180585",
+            "count": 20
+        },
+        {
+            "id": "100089577734408",
+            "count": 106
+        },
+        {
+            "id": "100088450927063",
+            "count": 3
+        },
+        {
+            "id": "100083787657480",
+            "count": 174
+        },
+        {
+            "id": "100090310848528",
+            "count": 21
+        },
+        {
+            "id": "100089354251662",
+            "count": 48
+        },
+        {
+            "id": "100090027044728",
+            "count": 588
+        },
+        {
+            "id": "100090678215066",
+            "count": 20
+        },
+        {
+            "id": "100090771107429",
+            "count": 527
+        },
+        {
+            "id": "100089605944927",
+            "count": 14
+        },
+        {
+            "id": "100016525563221",
+            "count": 18
+        },
+        {
+            "id": "100087505247747",
+            "count": 15
+        },
+        {
+            "id": "100087561637991",
+            "count": 8
+        },
+        {
+            "id": "100089552031754",
+            "count": 21
+        },
+        {
+            "id": "100084265261599",
+            "count": 5
+        },
+        {
+            "id": "100087756392632",
+            "count": 571
+        },
+        {
+            "id": "100086454161922",
+            "count": 5
+        },
+        {
+            "id": "100089029561939",
+            "count": 47
+        },
+        {
+            "id": "100089420417483",
+            "count": 44
+        },
+        {
+            "id": "100068294234404",
+            "count": 15
+        },
+        {
+            "id": "100080488782300",
+            "count": 94
+        },
+        {
+            "id": "100090205984304",
+            "count": 455
+        },
+        {
+            "id": "100090395744528",
+            "count": 167
+        },
+        {
+            "id": "100036449321891",
+            "count": 198
+        },
+        {
+            "id": "100087864897496",
+            "count": 33
+        },
+        {
+            "id": "100080147343612",
+            "count": 14
+        },
+        {
+            "id": "100076592464110",
+            "count": 9
+        },
+        {
+            "id": "100090803359513",
+            "count": 66
+        },
+        {
+            "id": "100087146269099",
+            "count": 6
+        },
+        {
+            "id": "100086412411238",
+            "count": 3
+        },
+        {
+            "id": "100088229986997",
+            "count": 13
+        },
+        {
+            "id": "100090349989843",
+            "count": 237
+        },
+        {
+            "id": "100090397196527",
+            "count": 2
+        },
+        {
+            "id": "100087880747232",
+            "count": 188
+        },
+        {
+            "id": "100090670868981",
+            "count": 5
+        },
+        {
+            "id": "100086945867679",
+            "count": 31
+        },
+        {
+            "id": "100090230198778",
+            "count": 15
+        },
+        {
+            "id": "100090873454079",
+            "count": 3
+        }
+    ],
+    "week": [
+        {
+            "id": "100035805512261",
+            "count": 168,
+            "name": "Ishyy Codm"
+        },
+        {
+            "id": "100047818170891",
+            "count": 0,
+            "name": "Yazhia Zylvie"
+        },
+        {
+            "id": "100061996433763",
+            "count": 271,
+            "name": "Jasper Igop II"
+        },
+        {
+            "id": "100070638858526",
+            "count": 53,
+            "name": "Kassiani finnian'Dostoeivski Shikigami'louviere toughwarts'Darkthrone"
+        },
+        {
+            "id": "100076974067151",
+            "count": 75,
+            "name": "Shane Ruisc Vior"
+        },
+        {
+            "id": "100080884265374",
+            "count": 2,
+            "name": "Shia Flaire"
+        },
+        {
+            "id": "100085514832448",
+            "count": 31,
+            "name": "Ben Monteverde"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "Zyx Morgan"
+        },
+        {
+            "id": "100089649034056",
+            "count": 190,
+            "name": "Lash Coleman"
+        },
+        {
+            "id": "100089746924207",
+            "count": 11,
+            "name": "Kurt Smith Mòñtéfalçõ"
+        },
+        {
+            "id": "100089770608651",
+            "count": 16,
+            "name": "Niki Conzales"
+        },
+        {
+            "id": "100087924859640",
+            "count": 102,
+            "name": "Skyler Winter Montellio"
+        },
+        {
+            "id": "100086007806846",
+            "count": 0,
+            "name": "Tezukaa Zyvk's"
+        },
+        {
+            "id": "100089416965096",
+            "count": 0,
+            "name": "Faith Dump"
+        },
+        {
+            "id": "100089938218078",
+            "count": 48,
+            "name": "Saji Vior"
+        },
+        {
+            "id": "100089903927653",
+            "count": 1,
+            "name": "Kio III"
+        },
+        {
+            "id": "100083721057462",
+            "count": 0,
+            "name": "Claudia Lucero"
+        },
+        {
+            "id": "100087177985156",
+            "count": 128,
+            "name": "Seren Fudge"
+        },
+        {
+            "id": "100086278020994",
+            "count": 0,
+            "name": "Rhiana Sæji"
+        },
+        {
+            "id": "100086388802459",
+            "count": 1,
+            "name": "Kash Venti"
+        },
+        {
+            "id": "100087751781756",
+            "count": 94,
+            "name": "Laura Oxford"
+        },
+        {
+            "id": "100087132138117",
+            "count": 0,
+            "name": "Ryu Ichiro Chuako"
+        },
+        {
+            "id": "100089557996979",
+            "count": 0,
+            "name": "Celyn Dump"
+        },
+        {
+            "id": "100087582647062",
+            "count": 41,
+            "name": "Kyle Montefalco"
+        },
+        {
+            "id": "100089794643693",
+            "count": 4,
+            "name": "Nathaniel Smith"
+        },
+        {
+            "id": "100081966482651",
+            "count": 4,
+            "name": "Zaira Loisse Valarie"
+        },
+        {
+            "id": "100075429336874",
+            "count": 12,
+            "name": "Red Kingsly"
+        },
+        {
+            "id": "100077274765184",
+            "count": 54,
+            "name": "Xander Montefalco"
+        },
+        {
+            "id": "100084263180585",
+            "count": 0,
+            "name": "Zcyron Brraceros"
+        },
+        {
+            "id": "100089577734408",
+            "count": 3,
+            "name": "Alexa Mwamwa"
+        },
+        {
+            "id": "100088450927063",
+            "count": 0,
+            "name": "Tafi Hajia"
+        },
+        {
+            "id": "100083787657480",
+            "count": 108,
+            "name": "Aesthirea Lathakeisha G'hievior"
+        },
+        {
+            "id": "100090310848528",
+            "count": 8,
+            "name": "Brenth Miquė"
+        },
+        {
+            "id": "100089354251662",
+            "count": 17,
+            "name": "Chrysanthemum Eulalia Finnliegh"
+        },
+        {
+            "id": "100090027044728",
+            "count": 70,
+            "name": "John De Leon"
+        },
+        {
+            "id": "100090678215066",
+            "count": 0,
+            "name": "Jí'ó Dúmp"
+        },
+        {
+            "id": "100090771107429",
+            "count": 217,
+            "name": "Ariela Ashleigh Ezra"
+        },
+        {
+            "id": "100089605944927",
+            "count": 7,
+            "name": "Cherryfer Albopera"
+        },
+        {
+            "id": "100016525563221",
+            "count": 0,
+            "name": "Dylan Shin De Jesus"
+        },
+        {
+            "id": "100087505247747",
+            "count": 0,
+            "name": "Akki Monteverde"
+        },
+        {
+            "id": "100087561637991",
+            "count": 2,
+            "name": "Keres Vargaz"
+        },
+        {
+            "id": "100089552031754",
+            "count": 19,
+            "name": "Yca Sanchez"
+        },
+        {
+            "id": "100084265261599",
+            "count": 3,
+            "name": "Jeon Matthew"
+        },
+        {
+            "id": "100087756392632",
+            "count": 193,
+            "name": "Jäsmën Smïth"
+        },
+        {
+            "id": "100086454161922",
+            "count": 3,
+            "name": "Jean Kulangsamwamwa"
+        },
+        {
+            "id": "100089029561939",
+            "count": 30,
+            "name": "Summer Hernandez"
+        },
+        {
+            "id": "100089420417483",
+            "count": 15,
+            "name": "Grey Fuevo"
+        },
+        {
+            "id": "100068294234404",
+            "count": 10,
+            "name": "Ey Jay"
+        },
+        {
+            "id": "100080488782300",
+            "count": 89,
+            "name": "Kyo Fang"
+        },
+        {
+            "id": "100090205984304",
+            "count": 254,
+            "name": "Maxine Vior"
+        },
+        {
+            "id": "100090395744528",
+            "count": 135,
+            "name": "Zuri Dump"
+        },
+        {
+            "id": "100036449321891",
+            "count": 191,
+            "name": "Khen Lee"
+        },
+        {
+            "id": "100087864897496",
+            "count": 16,
+            "name": "Ethan De Castro"
+        },
+        {
+            "id": "100080147343612",
+            "count": 11,
+            "name": "Aika Diaz"
+        },
+        {
+            "id": "100076592464110",
+            "count": 9
+        },
+        {
+            "id": "100090803359513",
+            "count": 66
+        },
+        {
+            "id": "100087146269099",
+            "count": 6
+        },
+        {
+            "id": "100086412411238",
+            "count": 3
+        },
+        {
+            "id": "100088229986997",
+            "count": 13
+        },
+        {
+            "id": "100090349989843",
+            "count": 237
+        },
+        {
+            "id": "100090397196527",
+            "count": 2
+        },
+        {
+            "id": "100087880747232",
+            "count": 188
+        },
+        {
+            "id": "100090670868981",
+            "count": 5
+        },
+        {
+            "id": "100086945867679",
+            "count": 31
+        },
+        {
+            "id": "100090230198778",
+            "count": 15
+        },
+        {
+            "id": "100090873454079",
+            "count": 3
+        }
+    ],
+    "day": [
+        {
+            "id": "100035805512261",
+            "count": 0,
+            "name": "Ishyy Codm"
+        },
+        {
+            "id": "100047818170891",
+            "count": 0,
+            "name": "Yazhia Zylvie"
+        },
+        {
+            "id": "100061996433763",
+            "count": 17,
+            "name": "Jasper Igop II"
+        },
+        {
+            "id": "100070638858526",
+            "count": 0,
+            "name": "Kassiani finnian'Dostoeivski Shikigami'louviere toughwarts'Darkthrone"
+        },
+        {
+            "id": "100076974067151",
+            "count": 11,
+            "name": "Shane Ruisc Vior"
+        },
+        {
+            "id": "100080884265374",
+            "count": 0,
+            "name": "Shia Flaire"
+        },
+        {
+            "id": "100085514832448",
+            "count": 0,
+            "name": "Ben Monteverde"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "Zyx Morgan"
+        },
+        {
+            "id": "100089649034056",
+            "count": 8,
+            "name": "Lash Coleman"
+        },
+        {
+            "id": "100089746924207",
+            "count": 0,
+            "name": "Kurt Smith Mòñtéfalçõ"
+        },
+        {
+            "id": "100089770608651",
+            "count": 0,
+            "name": "Niki Conzales"
+        },
+        {
+            "id": "100087924859640",
+            "count": 0,
+            "name": "Skyler Winter Montellio"
+        },
+        {
+            "id": "100086007806846",
+            "count": 0,
+            "name": "Tezukaa Zyvk's"
+        },
+        {
+            "id": "100089416965096",
+            "count": 0,
+            "name": "Faith Dump"
+        },
+        {
+            "id": "100089938218078",
+            "count": 17,
+            "name": "Saji Vior"
+        },
+        {
+            "id": "100089903927653",
+            "count": 0,
+            "name": "Kio III"
+        },
+        {
+            "id": "100083721057462",
+            "count": 0,
+            "name": "Claudia Lucero"
+        },
+        {
+            "id": "100087177985156",
+            "count": 0,
+            "name": "Seren Fudge"
+        },
+        {
+            "id": "100086278020994",
+            "count": 0,
+            "name": "Rhiana Sæji"
+        },
+        {
+            "id": "100086388802459",
+            "count": 0,
+            "name": "Kash Venti"
+        },
+        {
+            "id": "100087751781756",
+            "count": 0,
+            "name": "Laura Oxford"
+        },
+        {
+            "id": "100087132138117",
+            "count": 0,
+            "name": "Ryu Ichiro Chuako"
+        },
+        {
+            "id": "100089557996979",
+            "count": 0,
+            "name": "Celyn Dump"
+        },
+        {
+            "id": "100087582647062",
+            "count": 0,
+            "name": "Kyle Montefalco"
+        },
+        {
+            "id": "100089794643693",
+            "count": 0,
+            "name": "Nathaniel Smith"
+        },
+        {
+            "id": "100081966482651",
+            "count": 0,
+            "name": "Zaira Loisse Valarie"
+        },
+        {
+            "id": "100075429336874",
+            "count": 0,
+            "name": "Red Kingsly"
+        },
+        {
+            "id": "100077274765184",
+            "count": 1,
+            "name": "Xander Montefalco"
+        },
+        {
+            "id": "100084263180585",
+            "count": 0,
+            "name": "Zcyron Brraceros"
+        },
+        {
+            "id": "100089577734408",
+            "count": 0,
+            "name": "Alexa Mwamwa"
+        },
+        {
+            "id": "100088450927063",
+            "count": 0,
+            "name": "Tafi Hajia"
+        },
+        {
+            "id": "100083787657480",
+            "count": 5,
+            "name": "Aesthirea Lathakeisha G'hievior"
+        },
+        {
+            "id": "100090310848528",
+            "count": 0,
+            "name": "Brenth Miquė"
+        },
+        {
+            "id": "100089354251662",
+            "count": 0,
+            "name": "Chrysanthemum Eulalia Finnliegh"
+        },
+        {
+            "id": "100090027044728",
+            "count": 0,
+            "name": "John De Leon"
+        },
+        {
+            "id": "100090678215066",
+            "count": 0,
+            "name": "Jí'ó Dúmp"
+        },
+        {
+            "id": "100090771107429",
+            "count": 0,
+            "name": "Ariela Ashleigh Ezra"
+        },
+        {
+            "id": "100089605944927",
+            "count": 0,
+            "name": "Cherryfer Albopera"
+        },
+        {
+            "id": "100016525563221",
+            "count": 0,
+            "name": "Dylan Shin De Jesus"
+        },
+        {
+            "id": "100087505247747",
+            "count": 0,
+            "name": "Akki Monteverde"
+        },
+        {
+            "id": "100087561637991",
+            "count": 0,
+            "name": "Keres Vargaz"
+        },
+        {
+            "id": "100089552031754",
+            "count": 0,
+            "name": "Yca Sanchez"
+        },
+        {
+            "id": "100084265261599",
+            "count": 0,
+            "name": "Jeon Matthew"
+        },
+        {
+            "id": "100087756392632",
+            "count": 0,
+            "name": "Jäsmën Smïth"
+        },
+        {
+            "id": "100086454161922",
+            "count": 0,
+            "name": "Jean Kulangsamwamwa"
+        },
+        {
+            "id": "100089029561939",
+            "count": 0,
+            "name": "Summer Hernandez"
+        },
+        {
+            "id": "100089420417483",
+            "count": 0,
+            "name": "Grey Fuevo"
+        },
+        {
+            "id": "100068294234404",
+            "count": 0,
+            "name": "Ey Jay"
+        },
+        {
+            "id": "100080488782300",
+            "count": 0,
+            "name": "Kyo Fang"
+        },
+        {
+            "id": "100090205984304",
+            "count": 0,
+            "name": "Maxine Vior"
+        },
+        {
+            "id": "100090395744528",
+            "count": 12,
+            "name": "Zuri Dump"
+        },
+        {
+            "id": "100036449321891",
+            "count": 0,
+            "name": "Khen Lee"
+        },
+        {
+            "id": "100087864897496",
+            "count": 0,
+            "name": "Ethan De Castro"
+        },
+        {
+            "id": "100080147343612",
+            "count": 1,
+            "name": "Aika Diaz"
+        },
+        {
+            "id": "100076592464110",
+            "count": 0,
+            "name": "Zabrina Blythe Ravior"
+        },
+        {
+            "id": "100090803359513",
+            "count": 0,
+            "name": "Pray Fervourj"
+        },
+        {
+            "id": "100087146269099",
+            "count": 0,
+            "name": "Havoc Monasterio"
+        },
+        {
+            "id": "100086412411238",
+            "count": 0,
+            "name": "Crist Oper"
+        },
+        {
+            "id": "100088229986997",
+            "count": 0,
+            "name": "Angel Faith Saphere"
+        },
+        {
+            "id": "100090349989843",
+            "count": 0,
+            "name": "Qaki Warner"
+        },
+        {
+            "id": "100090397196527",
+            "count": 0,
+            "name": "Nathalie Zior"
+        },
+        {
+            "id": "100087880747232",
+            "count": 37,
+            "name": "Mia Winters"
+        },
+        {
+            "id": "100090670868981",
+            "count": 0,
+            "name": "Aaron Huxley"
+        },
+        {
+            "id": "100086945867679",
+            "count": 2,
+            "name": "Alexa Dump"
+        },
+        {
+            "id": "100090230198778",
+            "count": 2,
+            "name": "Khia Huxley Stad"
+        },
+        {
+            "id": "100090873454079",
+            "count": 3
+        }
+    ],
+    "time": 4
+}

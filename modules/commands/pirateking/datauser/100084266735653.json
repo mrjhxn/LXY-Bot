@@ -1,0 +1,19 @@
+{
+    "name": "Savannah Eleoner Monvalle",
+    "ID": "100084266735653",
+    "shield": 2,
+    "coins": 430.75,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 10,
+            "boat": 0,
+            "pet": 10,
+            "chest": 10
+        }
+    },
+    "spin": 1995,
+    "timeRegister": "16:01:44, 3/12/2022"
+}

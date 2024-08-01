@@ -1,0 +1,19 @@
+{
+    "name": "Gian D'jinabol",
+    "ID": "100087002274657",
+    "shield": 3,
+    "coins": null,
+    "Island": {
+        "level": 2,
+        "coinsLV": 300,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 8986,
+    "timeRegister": "23:34:00, 2/12/2022"
+}

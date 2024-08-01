@@ -1,0 +1,19 @@
+{
+    "name": "Zach Hiroshi",
+    "ID": "100077027691786",
+    "shield": 0,
+    "coins": 23000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 9,
+    "timeRegister": "20:01:49, 8/6/2023"
+}

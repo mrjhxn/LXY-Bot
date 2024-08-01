@@ -1,0 +1,317 @@
+{
+    "total": [
+        {
+            "id": "100053172347696",
+            "count": 3
+        },
+        {
+            "id": "100074609197763",
+            "count": 0
+        },
+        {
+            "id": "100077116456337",
+            "count": 0
+        },
+        {
+            "id": "100077598307340",
+            "count": 0
+        },
+        {
+            "id": "100078323875817",
+            "count": 0
+        },
+        {
+            "id": "100081190730329",
+            "count": 0
+        },
+        {
+            "id": "100082092267902",
+            "count": 0
+        },
+        {
+            "id": "100083661177489",
+            "count": 0
+        },
+        {
+            "id": "100083678492798",
+            "count": 0
+        },
+        {
+            "id": "100083868225552",
+            "count": 0
+        },
+        {
+            "id": "100084927218646",
+            "count": 0
+        },
+        {
+            "id": "100085802783234",
+            "count": 0
+        },
+        {
+            "id": "100086769912954",
+            "count": 0
+        },
+        {
+            "id": "100087202500473",
+            "count": 0
+        },
+        {
+            "id": "100088420261066",
+            "count": 1
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100088866744877",
+            "count": 0
+        },
+        {
+            "id": "100088951012745",
+            "count": 0
+        },
+        {
+            "id": "100089221330179",
+            "count": 0
+        },
+        {
+            "id": "100089286475044",
+            "count": 0
+        },
+        {
+            "id": "100089559117034",
+            "count": 16
+        },
+        {
+            "id": "100089880322873",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100053172347696",
+            "count": 0,
+            "name": "Akio Marley Pescadero"
+        },
+        {
+            "id": "100074609197763",
+            "count": 0,
+            "name": "Yaji A'lmea"
+        },
+        {
+            "id": "100077116456337",
+            "count": 0,
+            "name": "Han Isaac"
+        },
+        {
+            "id": "100077598307340",
+            "count": 0,
+            "name": "Hector Jr Labrague"
+        },
+        {
+            "id": "100078323875817",
+            "count": 0,
+            "name": "Kem Dela Fuentes"
+        },
+        {
+            "id": "100081190730329",
+            "count": 0,
+            "name": "Jhonny Smith"
+        },
+        {
+            "id": "100082092267902",
+            "count": 0,
+            "name": "Kyle Raven Smith"
+        },
+        {
+            "id": "100083661177489",
+            "count": 0,
+            "name": "James Smith"
+        },
+        {
+            "id": "100083678492798",
+            "count": 0,
+            "name": "Samantha P'rrty"
+        },
+        {
+            "id": "100083868225552",
+            "count": 0,
+            "name": "Lucas Oxford"
+        },
+        {
+            "id": "100084927218646",
+            "count": 0,
+            "name": "John Myco Pepito"
+        },
+        {
+            "id": "100085802783234",
+            "count": 0,
+            "name": "Kurt Aizen Ramled Oxford"
+        },
+        {
+            "id": "100086769912954",
+            "count": 0,
+            "name": "Naeva"
+        },
+        {
+            "id": "100087202500473",
+            "count": 0,
+            "name": "Kurt Montefalco"
+        },
+        {
+            "id": "100088420261066",
+            "count": 0,
+            "name": "Kian Oxford"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088866744877",
+            "count": 0,
+            "name": "Kianna Kier"
+        },
+        {
+            "id": "100088951012745",
+            "count": 0,
+            "name": "Blythe Smith"
+        },
+        {
+            "id": "100089221330179",
+            "count": 0,
+            "name": "Prince Dela Cruz"
+        },
+        {
+            "id": "100089286475044",
+            "count": 0,
+            "name": "Skylar Blythe Athena"
+        },
+        {
+            "id": "100089559117034",
+            "count": 0,
+            "name": "Rhaizan Luberas"
+        },
+        {
+            "id": "100089880322873",
+            "count": 0,
+            "name": "Kenzo Hiroshi"
+        }
+    ],
+    "day": [
+        {
+            "id": "100053172347696",
+            "count": 0,
+            "name": "Akio Marley Pescadero"
+        },
+        {
+            "id": "100074609197763",
+            "count": 0,
+            "name": "Yaji A'lmea"
+        },
+        {
+            "id": "100077116456337",
+            "count": 0,
+            "name": "Han Isaac"
+        },
+        {
+            "id": "100077598307340",
+            "count": 0,
+            "name": "Hector Jr Labrague"
+        },
+        {
+            "id": "100078323875817",
+            "count": 0,
+            "name": "Kem Dela Fuentes"
+        },
+        {
+            "id": "100081190730329",
+            "count": 0,
+            "name": "Jhonny Smith"
+        },
+        {
+            "id": "100082092267902",
+            "count": 0,
+            "name": "Kyle Raven Smith"
+        },
+        {
+            "id": "100083661177489",
+            "count": 0,
+            "name": "James Smith"
+        },
+        {
+            "id": "100083678492798",
+            "count": 0,
+            "name": "Samantha P'rrty"
+        },
+        {
+            "id": "100083868225552",
+            "count": 0,
+            "name": "Lucas Oxford"
+        },
+        {
+            "id": "100084927218646",
+            "count": 0,
+            "name": "John Myco Pepito"
+        },
+        {
+            "id": "100085802783234",
+            "count": 0,
+            "name": "Kurt Aizen Ramled Oxford"
+        },
+        {
+            "id": "100086769912954",
+            "count": 0,
+            "name": "Naeva"
+        },
+        {
+            "id": "100087202500473",
+            "count": 0,
+            "name": "Kurt Montefalco"
+        },
+        {
+            "id": "100088420261066",
+            "count": 0,
+            "name": "Kian Oxford"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088866744877",
+            "count": 0,
+            "name": "Kianna Kier"
+        },
+        {
+            "id": "100088951012745",
+            "count": 0,
+            "name": "Blythe Smith"
+        },
+        {
+            "id": "100089221330179",
+            "count": 0,
+            "name": "Prince Dela Cruz"
+        },
+        {
+            "id": "100089286475044",
+            "count": 0,
+            "name": "Skylar Blythe Athena"
+        },
+        {
+            "id": "100089559117034",
+            "count": 0,
+            "name": "Rhaizan Luberas"
+        },
+        {
+            "id": "100089880322873",
+            "count": 0,
+            "name": "Kenzo Hiroshi"
+        }
+    ],
+    "time": 4
+}

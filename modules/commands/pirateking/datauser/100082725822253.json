@@ -1,0 +1,19 @@
+{
+    "name": "Keshianna Navis",
+    "ID": "100082725822253",
+    "shield": 0,
+    "coins": 5323.25,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 30
+        }
+    },
+    "spin": 9,
+    "timeRegister": "15:14:54, 3/12/2022"
+}

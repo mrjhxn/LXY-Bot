@@ -1,0 +1,19 @@
+{
+    "name": "Leon Xeng",
+    "ID": "100088203885049",
+    "shield": 0,
+    "coins": 91.796875,
+    "Island": {
+        "level": 2,
+        "coinsLV": 300,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 5984,
+    "timeRegister": "23:29:53, 2/12/2022"
+}

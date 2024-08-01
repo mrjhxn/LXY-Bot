@@ -1,0 +1,471 @@
+{
+    "total": [
+        {
+            "id": "100007250730632",
+            "count": 0
+        },
+        {
+            "id": "100015784159494",
+            "count": 0
+        },
+        {
+            "id": "100019895179494",
+            "count": 27
+        },
+        {
+            "id": "100042521689682",
+            "count": 0
+        },
+        {
+            "id": "100064763179341",
+            "count": 2
+        },
+        {
+            "id": "100072403222845",
+            "count": 0
+        },
+        {
+            "id": "100075778393362",
+            "count": 10
+        },
+        {
+            "id": "100076895168489",
+            "count": 0
+        },
+        {
+            "id": "100077747912224",
+            "count": 2
+        },
+        {
+            "id": "100078694312677",
+            "count": 12
+        },
+        {
+            "id": "100082696457151",
+            "count": 0
+        },
+        {
+            "id": "100084995947799",
+            "count": 0
+        },
+        {
+            "id": "100086933088526",
+            "count": 0
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100089240262456",
+            "count": 2
+        },
+        {
+            "id": "100089376126266",
+            "count": 0
+        },
+        {
+            "id": "100089578672689",
+            "count": 0
+        },
+        {
+            "id": "100089622204553",
+            "count": 0
+        },
+        {
+            "id": "100089842944144",
+            "count": 0
+        },
+        {
+            "id": "100089901496705",
+            "count": 0
+        },
+        {
+            "id": "100089939803475",
+            "count": 0
+        },
+        {
+            "id": "100089999749626",
+            "count": 0
+        },
+        {
+            "id": "100090044262838",
+            "count": 0
+        },
+        {
+            "id": "100090067306754",
+            "count": 0
+        },
+        {
+            "id": "100090076089051",
+            "count": 0
+        },
+        {
+            "id": "100090132667640",
+            "count": 0
+        },
+        {
+            "id": "100090247622438",
+            "count": 0
+        },
+        {
+            "id": "100090285783738",
+            "count": 0
+        },
+        {
+            "id": "100090301955544",
+            "count": 0
+        },
+        {
+            "id": "100090376174900",
+            "count": 0
+        },
+        {
+            "id": "100090379445795",
+            "count": 0
+        },
+        {
+            "id": "100090427870131",
+            "count": 0
+        },
+        {
+            "id": "100090436050721",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100007250730632",
+            "count": 0,
+            "name": "Joshua Peregrina"
+        },
+        {
+            "id": "100015784159494",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100019895179494",
+            "count": 0,
+            "name": "Yosh Alterado"
+        },
+        {
+            "id": "100042521689682",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100064763179341",
+            "count": 0,
+            "name": "ナヴェア ザカリー"
+        },
+        {
+            "id": "100072403222845",
+            "count": 0,
+            "name": "Patrick Señaris"
+        },
+        {
+            "id": "100075778393362",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100076895168489",
+            "count": 0,
+            "name": "Alex Jhon Ponce"
+        },
+        {
+            "id": "100077747912224",
+            "count": 0,
+            "name": "ブライアン マドロナ"
+        },
+        {
+            "id": "100078694312677",
+            "count": 0,
+            "name": "Yoshimitsu Komajiro"
+        },
+        {
+            "id": "100082696457151",
+            "count": 0,
+            "name": "Karl Mundoz"
+        },
+        {
+            "id": "100084995947799",
+            "count": 0,
+            "name": "Flux Mark"
+        },
+        {
+            "id": "100086933088526",
+            "count": 0,
+            "name": "Joshua Peregrina"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100089240262456",
+            "count": 0,
+            "name": "ChatBot Mess"
+        },
+        {
+            "id": "100089376126266",
+            "count": 0,
+            "name": "Gian Oxford"
+        },
+        {
+            "id": "100089578672689",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089622204553",
+            "count": 0,
+            "name": "類麺"
+        },
+        {
+            "id": "100089842944144",
+            "count": 0,
+            "name": "Kendra Schnler"
+        },
+        {
+            "id": "100089901496705",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089939803475",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089999749626",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090044262838",
+            "count": 0,
+            "name": "Fubuki Mikata"
+        },
+        {
+            "id": "100090067306754",
+            "count": 0,
+            "name": "ChatBot Zonee"
+        },
+        {
+            "id": "100090076089051",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090132667640",
+            "count": 0,
+            "name": "Brytots Bot"
+        },
+        {
+            "id": "100090247622438",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090285783738",
+            "count": 0,
+            "name": "Charles Bot"
+        },
+        {
+            "id": "100090301955544",
+            "count": 0,
+            "name": "Andrew Bot"
+        },
+        {
+            "id": "100090376174900",
+            "count": 0,
+            "name": "Bot Bot"
+        },
+        {
+            "id": "100090379445795",
+            "count": 0,
+            "name": "Ambatukam Ambasim"
+        },
+        {
+            "id": "100090427870131",
+            "count": 0,
+            "name": "Damion Bot"
+        },
+        {
+            "id": "100090436050721",
+            "count": 0,
+            "name": "Yoshimitsu Komasan"
+        }
+    ],
+    "day": [
+        {
+            "id": "100007250730632",
+            "count": 0,
+            "name": "Joshua Peregrina"
+        },
+        {
+            "id": "100015784159494",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100019895179494",
+            "count": 0,
+            "name": "Yosh Alterado"
+        },
+        {
+            "id": "100042521689682",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100064763179341",
+            "count": 0,
+            "name": "ナヴェア ザカリー"
+        },
+        {
+            "id": "100072403222845",
+            "count": 0,
+            "name": "Patrick Señaris"
+        },
+        {
+            "id": "100075778393362",
+            "count": 0,
+            "name": "Jhon Xyryll Samoy"
+        },
+        {
+            "id": "100076895168489",
+            "count": 0,
+            "name": "Alex Jhon Ponce"
+        },
+        {
+            "id": "100077747912224",
+            "count": 0,
+            "name": "ブライアン マドロナ"
+        },
+        {
+            "id": "100078694312677",
+            "count": 0,
+            "name": "Yoshimitsu Komajiro"
+        },
+        {
+            "id": "100082696457151",
+            "count": 0,
+            "name": "Karl Mundoz"
+        },
+        {
+            "id": "100084995947799",
+            "count": 0,
+            "name": "Flux Mark"
+        },
+        {
+            "id": "100086933088526",
+            "count": 0,
+            "name": "Joshua Peregrina"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100089240262456",
+            "count": 0,
+            "name": "ChatBot Mess"
+        },
+        {
+            "id": "100089376126266",
+            "count": 0,
+            "name": "Gian Oxford"
+        },
+        {
+            "id": "100089578672689",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089622204553",
+            "count": 0,
+            "name": "類麺"
+        },
+        {
+            "id": "100089842944144",
+            "count": 0,
+            "name": "Kendra Schnler"
+        },
+        {
+            "id": "100089901496705",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089939803475",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100089999749626",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090044262838",
+            "count": 0,
+            "name": "Fubuki Mikata"
+        },
+        {
+            "id": "100090067306754",
+            "count": 0,
+            "name": "ChatBot Zonee"
+        },
+        {
+            "id": "100090076089051",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090132667640",
+            "count": 0,
+            "name": "Brytots Bot"
+        },
+        {
+            "id": "100090247622438",
+            "count": 0,
+            "name": "Facebook user"
+        },
+        {
+            "id": "100090285783738",
+            "count": 0,
+            "name": "Charles Bot"
+        },
+        {
+            "id": "100090301955544",
+            "count": 0,
+            "name": "Andrew Bot"
+        },
+        {
+            "id": "100090376174900",
+            "count": 0,
+            "name": "Bot Bot"
+        },
+        {
+            "id": "100090379445795",
+            "count": 0,
+            "name": "Ambatukam Ambasim"
+        },
+        {
+            "id": "100090427870131",
+            "count": 0,
+            "name": "Damion Bot"
+        },
+        {
+            "id": "100090436050721",
+            "count": 0,
+            "name": "Yoshimitsu Komasan"
+        }
+    ],
+    "time": 4
+}

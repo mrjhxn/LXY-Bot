@@ -1,0 +1,66 @@
+module.exports.config = {
+  name: "antibdbot",
+  eventType: ["log:user-nickname"],
+  version: "1.0.0",//beta
+  credits: "Chards Bot",
+  description: "Detects nickname"
+};
+
+module.exports.run = async function({ api, event, Users, Threads }) {
+    var { logMessageData, threadID, author } = event;
+  const threadSetting = (await Threads.getData(String(event.threadID))).data || 
+    {};
+    const prefix = (threadSetting.hasOwnProperty("PREFIX")) ? threadSetting.PREFIX 
+    : global.config.PREFIX;
+    var botID = api.getCurrentUserID();
+    var { PREFIX, BOTNAME, ADMINBOT } = global.config;
+    var { nickname } = await Threads.getData(threadID, botID);
+    var nickname = nickname ? nickname : BOTNAME;
+
+    if (global.config.AntiMultipleBot == true && logMessageData.participant_id != botID) {
+    if (logMessageData.nickname.includes("[") ||
+        logMessageData.nickname.includes("<") ||
+        logMessageData.nickname.includes("<") ||
+        logMessageData.nickname.includes("«") ||
+        logMessageData.nickname.includes("〈") ||
+        logMessageData.nickname.includes("《") ||
+        logMessageData.nickname.includes("「") ||
+        logMessageData.nickname.includes("『") ||
+        logMessageData.nickname.includes("【") ||
+        logMessageData.nickname.includes("〔") ||
+        logMessageData.nickname.includes("〖") ||
+        logMessageData.nickname.includes("〘") ||
+        logMessageData.nickname.includes("〚") ||
+        logMessageData.nickname.includes("〱") ||
+        logMessageData.nickname.includes("〈") ||
+        logMessageData.nickname.includes("⌈") ||
+        logMessageData.nickname.includes("*") ||
+        logMessageData.nickname.includes("/") ||
+        logMessageData.nickname.includes("-") ||
+        logMessageData.nickname.includes("+") ||
+        logMessageData.nickname.includes("~") ||
+        logMessageData.nickname.includes("!") ||
+        logMessageData.nickname.includes("@") ||
+        logMessageData.nickname.includes("#") ||
+        logMessageData.nickname.includes("$") ||
+        logMessageData.nickname.includes("%") ||
+        logMessageData.nickname.includes("^") ||
+        logMessageData.nickname.includes("&")
+       ) {
+      api.sendMessage({ body: `[ 𝗠𝗢𝗗𝗘 ] → Anti Multiple Bot On`}, threadID);
+      await new Promise(resolve => setTimeout(resolve, 2 * 1000));
+      api.changeBlockedStatus(event.author, true);
+      api.removeUserFromGroup(`${api.getCurrentUserID()}`, threadID);
+    }
+    }
+  
+    if (logMessageData.participant_id == botID && author != botID && !ADMINBOT.includes(author) && logMessageData.nickname != nickname) {
+        api.changeNickname(`[ ${prefix} ] • ${global.config.BOTNAME}`, threadID, botID)
+        var info = await Users.getData(author);
+
+       return api.sendMessage({ body: `[ 𝗠𝗢𝗗𝗘 ] → Currently activating the ban mode of renaming Bot
+
+       Nickname: ${nickname}
+       `}, threadID);
+    }  
+}

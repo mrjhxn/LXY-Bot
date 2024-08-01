@@ -1,0 +1,19 @@
+{
+    "name": "Richard Retada",
+    "ID": "100027186646125",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 10,
+    "timeRegister": "09:20:24, 14/12/2022"
+}

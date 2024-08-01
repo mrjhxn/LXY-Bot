@@ -1,0 +1,19 @@
+{
+    "name": "So Fia",
+    "ID": "100076946557967",
+    "shield": 1,
+    "coins": 14500,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "boat": 10,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 9,
+    "timeRegister": "15:44:57, 4/12/2022"
+}

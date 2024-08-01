@@ -1,0 +1,19 @@
+{
+    "name": "Samantha Montefalco",
+    "ID": "100086221548861",
+    "shield": 1,
+    "coins": 625,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 14,
+    "timeRegister": "15:15:29, 3/12/2022"
+}

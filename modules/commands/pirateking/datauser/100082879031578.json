@@ -1,0 +1,19 @@
+{
+    "name": "Calix Jay",
+    "ID": "100082879031578",
+    "shield": 0,
+    "coins": 108281,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 30,
+            "tree": 20,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 95,
+    "timeRegister": "18:10:46, 5/12/2022"
+}

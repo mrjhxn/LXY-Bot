@@ -1,0 +1,107 @@
+{
+    "total": [
+        {
+            "id": "100051513532190",
+            "count": 0
+        },
+        {
+            "id": "100082636660793",
+            "count": 1
+        },
+        {
+            "id": "100083165576143",
+            "count": 0
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100090569344183",
+            "count": 7
+        },
+        {
+            "id": "100091791857426",
+            "count": 4
+        },
+        {
+            "id": "100091882477614",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100051513532190",
+            "count": 0,
+            "name": "twingkle終."
+        },
+        {
+            "id": "100082636660793",
+            "count": 0,
+            "name": "sky愛."
+        },
+        {
+            "id": "100083165576143",
+            "count": 0,
+            "name": "Solji Hachie"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100090569344183",
+            "count": 0,
+            "name": "Eya Diona"
+        },
+        {
+            "id": "100091791857426",
+            "count": 0,
+            "name": "Ariela Ashleigh Ezra"
+        },
+        {
+            "id": "100091882477614",
+            "count": 0,
+            "name": "Ryu Kiyo"
+        }
+    ],
+    "day": [
+        {
+            "id": "100051513532190",
+            "count": 0,
+            "name": "twingkle終."
+        },
+        {
+            "id": "100082636660793",
+            "count": 0,
+            "name": "sky愛."
+        },
+        {
+            "id": "100083165576143",
+            "count": 0,
+            "name": "Solji Hachie"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100090569344183",
+            "count": 0,
+            "name": "Eya Diona"
+        },
+        {
+            "id": "100091791857426",
+            "count": 0,
+            "name": "Ariela Ashleigh Ezra"
+        },
+        {
+            "id": "100091882477614",
+            "count": 0,
+            "name": "Ryu Kiyo"
+        }
+    ],
+    "time": 4
+}

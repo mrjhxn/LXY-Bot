@@ -1,0 +1,51 @@
+{
+    "total": [
+        {
+            "id": "100027186646125",
+            "count": 89
+        },
+        {
+            "id": "100042165434568",
+            "count": 0
+        },
+        {
+            "id": "100089977257189",
+            "count": 13
+        }
+    ],
+    "week": [
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100042165434568",
+            "count": 0,
+            "name": "Rodel Quillal II"
+        },
+        {
+            "id": "100089977257189",
+            "count": 0,
+            "name": "Bsit Sec Sem"
+        }
+    ],
+    "day": [
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100042165434568",
+            "count": 0,
+            "name": "Rodel Quillal II"
+        },
+        {
+            "id": "100089977257189",
+            "count": 0,
+            "name": "Bsit Sec Sem"
+        }
+    ],
+    "time": 4
+}

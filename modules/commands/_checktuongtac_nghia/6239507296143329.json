@@ -1,0 +1,299 @@
+{
+    "total": [
+        {
+            "id": "100056494130986",
+            "count": 45
+        },
+        {
+            "id": "100076673389861",
+            "count": 0
+        },
+        {
+            "id": "100078301947035",
+            "count": 73
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100088975945931",
+            "count": 0
+        },
+        {
+            "id": "100088983398265",
+            "count": 0
+        },
+        {
+            "id": "100090232197000",
+            "count": 0
+        },
+        {
+            "id": "100090323109323",
+            "count": 218
+        },
+        {
+            "id": "100090441844848",
+            "count": 361
+        },
+        {
+            "id": "100090829312351",
+            "count": 23
+        },
+        {
+            "id": "100092211397932",
+            "count": 1
+        },
+        {
+            "id": "100088086953540",
+            "count": 4
+        },
+        {
+            "id": "100083592810800",
+            "count": 90
+        },
+        {
+            "id": "100086715522580",
+            "count": 74
+        },
+        {
+            "id": "100090135304345",
+            "count": 20
+        },
+        {
+            "id": "100092295728904",
+            "count": 17
+        },
+        {
+            "id": "100090902962022",
+            "count": 4
+        },
+        {
+            "id": "100089660915199",
+            "count": 1
+        },
+        {
+            "id": "100091687515633",
+            "count": 1
+        },
+        {
+            "id": "100082966414040",
+            "count": 18
+        },
+        {
+            "id": "100091852497288",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100056494130986",
+            "count": 22,
+            "name": "Cal Kizu"
+        },
+        {
+            "id": "100076673389861",
+            "count": 0,
+            "name": "Azi Zheihjein Lux"
+        },
+        {
+            "id": "100078301947035",
+            "count": 0,
+            "name": "Avrizyl Hexicano"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088975945931",
+            "count": 0,
+            "name": "Sylvia Lurthur"
+        },
+        {
+            "id": "100088983398265",
+            "count": 0,
+            "name": "Aoife Yevdukia"
+        },
+        {
+            "id": "100090232197000",
+            "count": 0,
+            "name": "Yuri Axel Carter"
+        },
+        {
+            "id": "100090323109323",
+            "count": 5,
+            "name": "Valeria Maui"
+        },
+        {
+            "id": "100090441844848",
+            "count": 48,
+            "name": "Louisse Natasha Ledezma Camero"
+        },
+        {
+            "id": "100090829312351",
+            "count": 13,
+            "name": "Tanya S'jrv"
+        },
+        {
+            "id": "100092211397932",
+            "count": 0,
+            "name": "Vria Various"
+        },
+        {
+            "id": "100088086953540",
+            "count": 0,
+            "name": "Sophia Taika"
+        },
+        {
+            "id": "100083592810800",
+            "count": 1,
+            "name": "Yúi Dera"
+        },
+        {
+            "id": "100086715522580",
+            "count": 35,
+            "name": "Solace Yxie"
+        },
+        {
+            "id": "100090135304345",
+            "count": 4,
+            "name": "Kaizen Lee"
+        },
+        {
+            "id": "100092295728904",
+            "count": 11,
+            "name": "Khate Marie Cullen"
+        },
+        {
+            "id": "100090902962022",
+            "count": 0,
+            "name": "Saj Suenci"
+        },
+        {
+            "id": "100089660915199",
+            "count": 1
+        },
+        {
+            "id": "100091687515633",
+            "count": 1
+        },
+        {
+            "id": "100082966414040",
+            "count": 18
+        },
+        {
+            "id": "100091852497288",
+            "count": 1
+        }
+    ],
+    "day": [
+        {
+            "id": "100056494130986",
+            "count": 1,
+            "name": "Cal Kizu"
+        },
+        {
+            "id": "100076673389861",
+            "count": 0,
+            "name": "Azi Zheihjein Lux"
+        },
+        {
+            "id": "100078301947035",
+            "count": 0,
+            "name": "Avrizyl Hexicano"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100088975945931",
+            "count": 0,
+            "name": "Sylvia Lurthur"
+        },
+        {
+            "id": "100088983398265",
+            "count": 0,
+            "name": "Aoife Yevdukia"
+        },
+        {
+            "id": "100090232197000",
+            "count": 0,
+            "name": "Yuri Axel Carter"
+        },
+        {
+            "id": "100090323109323",
+            "count": 0,
+            "name": "Valeria Maui"
+        },
+        {
+            "id": "100090441844848",
+            "count": 0,
+            "name": "Louisse Natasha Ledezma Camero"
+        },
+        {
+            "id": "100090829312351",
+            "count": 0,
+            "name": "Tanya S'jrv"
+        },
+        {
+            "id": "100092211397932",
+            "count": 0,
+            "name": "Vria Various"
+        },
+        {
+            "id": "100088086953540",
+            "count": 0,
+            "name": "Sophia Taika"
+        },
+        {
+            "id": "100083592810800",
+            "count": 0,
+            "name": "Yúi Dera"
+        },
+        {
+            "id": "100086715522580",
+            "count": 2,
+            "name": "Solace Yxie"
+        },
+        {
+            "id": "100090135304345",
+            "count": 0,
+            "name": "Kaizen Lee"
+        },
+        {
+            "id": "100092295728904",
+            "count": 0,
+            "name": "Khate Marie Cullen"
+        },
+        {
+            "id": "100090902962022",
+            "count": 0,
+            "name": "Saj Suenci"
+        },
+        {
+            "id": "100089660915199",
+            "count": 0,
+            "name": "Che Ska"
+        },
+        {
+            "id": "100091687515633",
+            "count": 0,
+            "name": "Fheaa Luxwell"
+        },
+        {
+            "id": "100082966414040",
+            "count": 0,
+            "name": "Ishii Yuki"
+        },
+        {
+            "id": "100091852497288",
+            "count": 0,
+            "name": "Kiera Jsks"
+        }
+    ],
+    "time": 4
+}

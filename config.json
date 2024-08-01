@@ -1,0 +1,304 @@
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "UPTIME": 1254896.0358,
+    "UPTIME2": [],
+    "AutoReply": true,
+    "AutoGreet": true,
+    "Sched": false,
+    "AutoLeave": false,
+    "AntiMultipleBot": true,
+    "MYUID": "100072870249233",
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Yuto",
+    "goibotname": "yuto",
+    "PREFIX": "-",
+    "ADMINBOT": [
+        "100072870249233",
+        "61561982970881",
+        "61556938119729",
+        "100006386820939"
+    ],
+    "NDH": [
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "raw": "./raw-script",
+    "FCAOption": {
+        "forceLogin": true,
+        "online": true,
+        "autoMarkDelivery": false,
+        "listenEvents": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; RMX2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "fbcover": {
+        "APIKEY": "tdunguwu"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "sing": {
+        "API_KEY": "AIzaSyDdzsxzYZAoBCxF-TXQyVhd52_Tslu-FXU",
+        "YOUTUBE_API": "AIzaSyDdzsxzYZAoBCxF-TXQyVhd52_Tslu-FXU",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "tiktok": {
+        "API_KEY": "mzkFree_XNPP4LYOG9H8VY83GHG"
+    },
+    "ghép": {
+        "APIKEY": "nhatdepzaivl"
+    },
+    "adminOnly": false,
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "lixi": {
+        "cooldownTime": 1100000
+    },
+    "simsimi": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "sim": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "tikvd": {
+        "API_KEY": "mzkFree_X0IFR3FV0P97U4VL83F"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "ndhOnly": false,
+    "ifb": {
+        "key": "leanhtruong_w2hMntztR06Yc0L8QHGG",
+        "token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "adminPaOnly": false,
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyAE4wH3OSfPUjJZTJvByQfXhEuaBMXjzAA"
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyAE4wH3OSfPUjJZTJvByQfXhEuaBMXjzAA"
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "youtube": {
+        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+    },
+    "ytb": {
+        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "anime": {
+        "cooldownTime": 1200000
+    },
+    "bannermkt": {
+        "APIKEY": "tdunguwu"
+    },
+    "radio": {
+        "YOUTUBE_API": "AIzaSyA81xmaIo6uozgapDe7_yDjFfnOwkfx_XA"
+    },
+    "mkt": {
+        "APIKEY": "tdunguwu"
+    },
+    "moon": {
+        "APIKEY": "tdunguwu"
+    },
+    "cardinfo": {
+        "APIKEY": "tuandz"
+    },
+    "job": {
+        "cooldownTime": 900000
+    },
+    "fish": {
+        "cooldownTime": 600000
+    },
+    "helpall": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "lotto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "simplehelp": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "singv2": {
+        "YOUTUBE_API": "AIzaSyDAiwFBGnV6wbOe3UPY8h61vRzxSgxRa_g",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slapv2": {
+        "APIKEY": ""
+    },
+    "videov2": {
+        "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
+    },
+    "singv3": {
+        "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "manhg": [
+        "Hs2lvnqu",
+        "DFFAzoK9",
+        "MKo2jiZV",
+        "5CdhXXpj",
+        "3mVzRgx7",
+        "rqGTz2jm",
+        "EgAPALwx",
+        "CNDSZotb",
+        "mGNXxaVM",
+        "F5bm7NSb",
+        "Fcq3Fb3x",
+        "uW8cz9KV",
+        "lBhndZpj",
+        "g29kwLXr",
+        "zrU7IVaB",
+        "uaoE6gpB",
+        "webnWOPq",
+        "HRIdpfFf",
+        "iNt2kCSB",
+        "YqECqIWi",
+        "lh5HjYNA",
+        "taYrWMam",
+        "w9s48mVd",
+        "IyWIYp8J",
+        "tvXOET6H"
+    ],
+    "adminPersonalOnly": false,
+    "OPENAI_KEY": "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",
+    "RESERVER_OPENAI_KEY": [
+        "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",
+        "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",
+        "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",
+        "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",
+        "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",
+        "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",
+        "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",
+        "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",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

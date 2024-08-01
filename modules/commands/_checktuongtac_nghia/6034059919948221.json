@@ -1,0 +1,611 @@
+{
+    "total": [
+        {
+            "id": "100000799097516",
+            "count": 1
+        },
+        {
+            "id": "100002921449728",
+            "count": 0
+        },
+        {
+            "id": "100003571208478",
+            "count": 0
+        },
+        {
+            "id": "100004619854616",
+            "count": 0
+        },
+        {
+            "id": "100004720381015",
+            "count": 0
+        },
+        {
+            "id": "100006940924375",
+            "count": 0
+        },
+        {
+            "id": "100007149735610",
+            "count": 0
+        },
+        {
+            "id": "100007386788818",
+            "count": 0
+        },
+        {
+            "id": "100008349450512",
+            "count": 0
+        },
+        {
+            "id": "100008704530867",
+            "count": 63
+        },
+        {
+            "id": "100008707027606",
+            "count": 0
+        },
+        {
+            "id": "100008789235930",
+            "count": 33
+        },
+        {
+            "id": "100008980925380",
+            "count": 0
+        },
+        {
+            "id": "100009116457044",
+            "count": 0
+        },
+        {
+            "id": "100009182854377",
+            "count": 10
+        },
+        {
+            "id": "100009396733021",
+            "count": 0
+        },
+        {
+            "id": "100009407667152",
+            "count": 0
+        },
+        {
+            "id": "100009620350109",
+            "count": 17
+        },
+        {
+            "id": "100009663549140",
+            "count": 0
+        },
+        {
+            "id": "100009764674550",
+            "count": 0
+        },
+        {
+            "id": "100010030710142",
+            "count": 0
+        },
+        {
+            "id": "100011124360698",
+            "count": 8
+        },
+        {
+            "id": "100011200478995",
+            "count": 0
+        },
+        {
+            "id": "100015356883151",
+            "count": 0
+        },
+        {
+            "id": "100017482083369",
+            "count": 0
+        },
+        {
+            "id": "100020780058062",
+            "count": 3
+        },
+        {
+            "id": "100023077042790",
+            "count": 2
+        },
+        {
+            "id": "100023206758573",
+            "count": 0
+        },
+        {
+            "id": "100025251583058",
+            "count": 0
+        },
+        {
+            "id": "100027117705667",
+            "count": 19
+        },
+        {
+            "id": "100027186646125",
+            "count": 53
+        },
+        {
+            "id": "100028960239710",
+            "count": 0
+        },
+        {
+            "id": "100036101317209",
+            "count": 0
+        },
+        {
+            "id": "100036399331736",
+            "count": 3
+        },
+        {
+            "id": "100038717951436",
+            "count": 0
+        },
+        {
+            "id": "100043683171281",
+            "count": 0
+        },
+        {
+            "id": "100061355659404",
+            "count": 0
+        },
+        {
+            "id": "100067900806163",
+            "count": 0
+        },
+        {
+            "id": "100068011599115",
+            "count": 5
+        },
+        {
+            "id": "100077981753169",
+            "count": 0
+        },
+        {
+            "id": "100079876234151",
+            "count": 3
+        },
+        {
+            "id": "100088479528644",
+            "count": 0
+        },
+        {
+            "id": "100000490601170",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100000799097516",
+            "count": 0,
+            "name": "Martin See"
+        },
+        {
+            "id": "100002921449728",
+            "count": 0,
+            "name": "Rechealle Joy Domingo"
+        },
+        {
+            "id": "100003571208478",
+            "count": 0,
+            "name": "Erwin Auguis Musca"
+        },
+        {
+            "id": "100004619854616",
+            "count": 0,
+            "name": "Christian"
+        },
+        {
+            "id": "100004720381015",
+            "count": 0,
+            "name": "Mjay Lunas"
+        },
+        {
+            "id": "100006940924375",
+            "count": 0,
+            "name": "Dindin Maglaqui"
+        },
+        {
+            "id": "100007149735610",
+            "count": 0,
+            "name": "Kieth Eusebio"
+        },
+        {
+            "id": "100007386788818",
+            "count": 0,
+            "name": "Rie Lendle Delos Santos"
+        },
+        {
+            "id": "100008349450512",
+            "count": 0,
+            "name": "Mary Ladylyn Orquita Buid"
+        },
+        {
+            "id": "100008704530867",
+            "count": 0,
+            "name": "Earljude Ramasta"
+        },
+        {
+            "id": "100008707027606",
+            "count": 0,
+            "name": "Ralph Jules Zabala"
+        },
+        {
+            "id": "100008789235930",
+            "count": 0,
+            "name": "Phoebekate Dela Cruz"
+        },
+        {
+            "id": "100008980925380",
+            "count": 0,
+            "name": "Nathaniel Samorio"
+        },
+        {
+            "id": "100009116457044",
+            "count": 0,
+            "name": "Rica San Miguel Iriola"
+        },
+        {
+            "id": "100009182854377",
+            "count": 0,
+            "name": "Badrudin Abdul"
+        },
+        {
+            "id": "100009396733021",
+            "count": 0,
+            "name": "Jane Kyla Rodriguez"
+        },
+        {
+            "id": "100009407667152",
+            "count": 0,
+            "name": "Kara Libertino"
+        },
+        {
+            "id": "100009620350109",
+            "count": 0,
+            "name": "Ivan Glen Omaoeng"
+        },
+        {
+            "id": "100009663549140",
+            "count": 0,
+            "name": "Harold Ty Jr."
+        },
+        {
+            "id": "100009764674550",
+            "count": 0,
+            "name": "Cyan Mark Rosaldo"
+        },
+        {
+            "id": "100010030710142",
+            "count": 0,
+            "name": "Rodel Quillao"
+        },
+        {
+            "id": "100011124360698",
+            "count": 0,
+            "name": "John Paul Huntal Silorio"
+        },
+        {
+            "id": "100011200478995",
+            "count": 0,
+            "name": "Daisyree Lugnasin"
+        },
+        {
+            "id": "100015356883151",
+            "count": 0,
+            "name": "Diana Marie Jacobe Roque"
+        },
+        {
+            "id": "100017482083369",
+            "count": 0,
+            "name": "Dhalal S. Rodaje"
+        },
+        {
+            "id": "100020780058062",
+            "count": 0,
+            "name": "Earl John Luayon"
+        },
+        {
+            "id": "100023077042790",
+            "count": 0,
+            "name": "Jimwell Silvestre"
+        },
+        {
+            "id": "100023206758573",
+            "count": 0,
+            "name": "Kate Del Rosario"
+        },
+        {
+            "id": "100025251583058",
+            "count": 0,
+            "name": "Kholyn Nicolas"
+        },
+        {
+            "id": "100027117705667",
+            "count": 0,
+            "name": "Irving Mateo Stanford"
+        },
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100028960239710",
+            "count": 0,
+            "name": "Francisco Navidad Resa"
+        },
+        {
+            "id": "100036101317209",
+            "count": 0,
+            "name": "Justine Vallente"
+        },
+        {
+            "id": "100036399331736",
+            "count": 0,
+            "name": "Shaen Michael Peñaflor"
+        },
+        {
+            "id": "100038717951436",
+            "count": 0,
+            "name": "Shellamae Ondrada Taganas"
+        },
+        {
+            "id": "100043683171281",
+            "count": 0,
+            "name": "Jelyn Pacheco"
+        },
+        {
+            "id": "100061355659404",
+            "count": 0,
+            "name": "Lendhel Gonzales"
+        },
+        {
+            "id": "100067900806163",
+            "count": 0,
+            "name": "Daryl Galang"
+        },
+        {
+            "id": "100068011599115",
+            "count": 0,
+            "name": "Ma Lura Servano"
+        },
+        {
+            "id": "100077981753169",
+            "count": 0,
+            "name": "Rose Ann Rabe Ramos"
+        },
+        {
+            "id": "100079876234151",
+            "count": 0,
+            "name": "Raymond Quillao"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100000490601170",
+            "count": 0,
+            "name": "Chriz Avelino"
+        }
+    ],
+    "day": [
+        {
+            "id": "100000799097516",
+            "count": 0,
+            "name": "Martin See"
+        },
+        {
+            "id": "100002921449728",
+            "count": 0,
+            "name": "Rechealle Joy Domingo"
+        },
+        {
+            "id": "100003571208478",
+            "count": 0,
+            "name": "Erwin Auguis Musca"
+        },
+        {
+            "id": "100004619854616",
+            "count": 0,
+            "name": "Christian"
+        },
+        {
+            "id": "100004720381015",
+            "count": 0,
+            "name": "Mjay Lunas"
+        },
+        {
+            "id": "100006940924375",
+            "count": 0,
+            "name": "Dindin Maglaqui"
+        },
+        {
+            "id": "100007149735610",
+            "count": 0,
+            "name": "Kieth Eusebio"
+        },
+        {
+            "id": "100007386788818",
+            "count": 0,
+            "name": "Rie Lendle Delos Santos"
+        },
+        {
+            "id": "100008349450512",
+            "count": 0,
+            "name": "Mary Ladylyn Orquita Buid"
+        },
+        {
+            "id": "100008704530867",
+            "count": 0,
+            "name": "Earljude Ramasta"
+        },
+        {
+            "id": "100008707027606",
+            "count": 0,
+            "name": "Ralph Jules Zabala"
+        },
+        {
+            "id": "100008789235930",
+            "count": 0,
+            "name": "Phoebekate Dela Cruz"
+        },
+        {
+            "id": "100008980925380",
+            "count": 0,
+            "name": "Nathaniel Samorio"
+        },
+        {
+            "id": "100009116457044",
+            "count": 0,
+            "name": "Rica San Miguel Iriola"
+        },
+        {
+            "id": "100009182854377",
+            "count": 0,
+            "name": "Badrudin Abdul"
+        },
+        {
+            "id": "100009396733021",
+            "count": 0,
+            "name": "Jane Kyla Rodriguez"
+        },
+        {
+            "id": "100009407667152",
+            "count": 0,
+            "name": "Kara Libertino"
+        },
+        {
+            "id": "100009620350109",
+            "count": 0,
+            "name": "Ivan Glen Omaoeng"
+        },
+        {
+            "id": "100009663549140",
+            "count": 0,
+            "name": "Harold Ty Jr."
+        },
+        {
+            "id": "100009764674550",
+            "count": 0,
+            "name": "Cyan Mark Rosaldo"
+        },
+        {
+            "id": "100010030710142",
+            "count": 0,
+            "name": "Rodel Quillao"
+        },
+        {
+            "id": "100011124360698",
+            "count": 0,
+            "name": "John Paul Huntal Silorio"
+        },
+        {
+            "id": "100011200478995",
+            "count": 0,
+            "name": "Daisyree Lugnasin"
+        },
+        {
+            "id": "100015356883151",
+            "count": 0,
+            "name": "Diana Marie Jacobe Roque"
+        },
+        {
+            "id": "100017482083369",
+            "count": 0,
+            "name": "Dhalal S. Rodaje"
+        },
+        {
+            "id": "100020780058062",
+            "count": 0,
+            "name": "Earl John Luayon"
+        },
+        {
+            "id": "100023077042790",
+            "count": 0,
+            "name": "Jimwell Silvestre"
+        },
+        {
+            "id": "100023206758573",
+            "count": 0,
+            "name": "Kate Del Rosario"
+        },
+        {
+            "id": "100025251583058",
+            "count": 0,
+            "name": "Kholyn Nicolas"
+        },
+        {
+            "id": "100027117705667",
+            "count": 0,
+            "name": "Irving Mateo Stanford"
+        },
+        {
+            "id": "100027186646125",
+            "count": 0,
+            "name": "Richard Retada"
+        },
+        {
+            "id": "100028960239710",
+            "count": 0,
+            "name": "Francisco Navidad Resa"
+        },
+        {
+            "id": "100036101317209",
+            "count": 0,
+            "name": "Justine Vallente"
+        },
+        {
+            "id": "100036399331736",
+            "count": 0,
+            "name": "Shaen Michael Peñaflor"
+        },
+        {
+            "id": "100038717951436",
+            "count": 0,
+            "name": "Shellamae Ondrada Taganas"
+        },
+        {
+            "id": "100043683171281",
+            "count": 0,
+            "name": "Jelyn Pacheco"
+        },
+        {
+            "id": "100061355659404",
+            "count": 0,
+            "name": "Lendhel Gonzales"
+        },
+        {
+            "id": "100067900806163",
+            "count": 0,
+            "name": "Daryl Galang"
+        },
+        {
+            "id": "100068011599115",
+            "count": 0,
+            "name": "Ma Lura Servano"
+        },
+        {
+            "id": "100077981753169",
+            "count": 0,
+            "name": "Rose Ann Rabe Ramos"
+        },
+        {
+            "id": "100079876234151",
+            "count": 0,
+            "name": "Raymond Quillao"
+        },
+        {
+            "id": "100088479528644",
+            "count": 0,
+            "name": "ZAY CAELUM LEIF"
+        },
+        {
+            "id": "100000490601170",
+            "count": 0,
+            "name": "Chriz Avelino"
+        }
+    ],
+    "time": 4
+}

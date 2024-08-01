@@ -1,0 +1,19 @@
+{
+    "name": "Yara Oquendo",
+    "ID": "100089944554411",
+    "shield": 3,
+    "coins": 25000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "boat": 0,
+            "pet": 0,
+            "chest": 0
+        }
+    },
+    "spin": 9,
+    "timeRegister": "22:56:59, 14/2/2023"
+}
